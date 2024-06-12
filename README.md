@@ -1,11 +1,11 @@
 ## Hi there 👋
-#Im Monte
+# Im Monte
 
 Im learning coding through CodeCademy
 
 Doing the Full Stack Course
 
-##10% through
+## 10% through
 ![progress bar](IMG_2595[1].PNG)
 <!--
 **Ditt0Data/Ditt0Data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
